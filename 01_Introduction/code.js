@@ -1,0 +1,1 @@
+console.log("bismillah hir rahman nir rahem")
